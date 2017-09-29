@@ -2,8 +2,7 @@
 <testsuite tests="6">
     <testcase classname="foo1" name="ASuccessfulTest"/>
     <testcase classname="foo2" name="AnotherSuccessfulTest"/>
-    <testcase classname="foo3" name="AFailingTest">
-    </testcase>
+    <testcase classname="foo3" name="AFailingTest"/>
     <testcase classname="foo4" name="ASuccessfulTest1"/>
     <testcase classname="foo5" name="AnotherSuccessfulTest1"/>
     <testcase classname="foo6" name="AFailingTest1">
