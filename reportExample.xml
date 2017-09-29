@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite tests="3">
+<testsuite>
     <testcase classname="foo1" name="ASuccessfulTest"/>
     <testcase classname="foo2" name="AnotherSuccessfulTest"/>
     <testcase classname="foo3" name="AFailingTest">
     </testcase>
+    <testcase classname="foo4" name="ASuccessfulTest2"/>
+    <testcase classname="foo5" name="AnotherSuccessfulTest"/>
+    <testcase classname="foo6" name="AFailingTest">
 </testsuite>
